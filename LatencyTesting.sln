@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.001.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LatencyTesting", "LatencyTesting.csproj", "{153C3453-3B76-45EE-ABCD-EADBEAA40CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153C3453-3B76-45EE-ABCD-EADBEAA40CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153C3453-3B76-45EE-ABCD-EADBEAA40CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153C3453-3B76-45EE-ABCD-EADBEAA40CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153C3453-3B76-45EE-ABCD-EADBEAA40CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0B6CC9E-C1F8-4655-AD90-0B2F7B3FC065}
+	EndGlobalSection
+EndGlobal
